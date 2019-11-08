@@ -3,6 +3,7 @@ body{
 	padding: 0;
 	font-family: sans-serif;
 background: linear-gradient(90deg,#DCE35B,#45B649);
+scroll-behavior: smooth;
 }
 nav{
 	width: 100%;
@@ -221,7 +222,6 @@ ul li a{
 }
 .about a:hover{
   color: #fff;
-
 }
 .about-section-col{
     flex: 100%;
