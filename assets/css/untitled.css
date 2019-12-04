@@ -4,7 +4,11 @@
   font-weight: 100;
 }
 
-.section-heading .section-heading-lower {
+.section-heading .section-heading-lower  {
   font-size: 20px;
+  font-weight: bolder;
 }
-
+.section-heading .section-heading-lower .headbold {
+	font-weight: bold;
+	size: 250px;
+}
